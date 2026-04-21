@@ -63,3 +63,5 @@ Ensure that all .sci files are in the same working directory before execution.
 Scilab (tested with version: [Scilab 2025.1.0])
 
 No additional toolboxes are required unless explicitly stated in the scripts.
+
+This project is licensed under the MIT License. See the LICENSE file for details.
